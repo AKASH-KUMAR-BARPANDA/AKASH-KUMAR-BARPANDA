@@ -16,10 +16,10 @@ I’m an **AI and Embedded Systems Developer** currently pursuing my studies at 
 I build systems that combine **hardware, intelligence, and design** to solve real-world problems.  
 Passionate about **AI on the edge**, **mobile architecture**, and **sustainable connectivity systems**.
 
-- 🔭 **Current Focus:** AI integration in embedded & mobile environments  
-- 💡 **Areas of Interest:** Edge AI, Network Systems, OS Development, System Design  
-- ⚙️ **Languages I Think In:** Python, Kotlin, Dart, and C  
-- 🧭 **Philosophy:** *“Every build should teach you something new.”*
+-  **Current Focus:** AI integration in embedded & mobile environments  
+-  **Areas of Interest:** Edge AI, Network Systems, OS Development, System Design  
+-  **Languages I Think In:** Python, Kotlin, Dart, and C  
+-  **Philosophy:** *“Every build should teach you something new.”*
 
 ---
 
@@ -39,15 +39,6 @@ Passionate about **AI on the edge**, **mobile architecture**, and **sustainable 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKASH-KUMAR-BARPANDA&theme=tokyonight" alt="Profile Summary" />
 </p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkashBarpanda/AkashBarpanda/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkashBarpanda/AkashBarpanda/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/AkashBarpanda/AkashBarpanda/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 ---
 
 ###  Core Competencies
@@ -96,11 +87,11 @@ Passionate about **AI on the edge**, **mobile architecture**, and **sustainable 
 
 ###  Strengths
 
-- 💡 **Analytical Problem-Solving:** Capable of moving from high-level design to low-level debugging with clarity.  
-- 🧩 **System Thinking:** Understands how components — hardware, AI, and software — fit into cohesive architectures.  
-- ⚡ **Adaptable:** Quick to learn, iterate, and evolve with emerging tech.  
-- 🧠 **Curiosity-Driven:** Never stops experimenting with new tools or systems.  
-- 🤝 **Collaborative:** Enjoys working with diverse teams and mentoring peers.  
+-  **Analytical Problem-Solving:** Capable of moving from high-level design to low-level debugging with clarity.  
+-  **System Thinking:** Understands how components — hardware, AI, and software — fit into cohesive architectures.  
+-  **Adaptable:** Quick to learn, iterate, and evolve with emerging tech.  
+-  **Curiosity-Driven:** Never stops experimenting with new tools or systems.  
+-  **Collaborative:** Enjoys working with diverse teams and mentoring peers.  
 
 ---
 
@@ -108,9 +99,9 @@ Passionate about **AI on the edge**, **mobile architecture**, and **sustainable 
 
 > _“Perfection is progress slowed down.”_
 
-- ⚡ Working on executing faster — balancing analysis with action.  
-- 🔍 Managing fewer parallel builds for deeper focus.  
-- 🌱 Increasing involvement in open-source collaboration.  
+-  Working on executing faster — balancing analysis with action.  
+-  Managing fewer parallel builds for deeper focus.  
+-  Increasing involvement in open-source collaboration.  
 
 ---
 
@@ -121,7 +112,7 @@ Passionate about **AI on the edge**, **mobile architecture**, and **sustainable 
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="center" style="font-size: 24px;">
   <a href="https://github.com/AkashBarpanda" target="_blank" style="margin: 10px;">
